@@ -108,7 +108,7 @@ namespace CRUDMahasiswaADO
             txtNIM.Focus(); // ini di modul ada, lu tadi skip
         }
 
-        // ================== FORM LOAD ==================
+
        
 
 
