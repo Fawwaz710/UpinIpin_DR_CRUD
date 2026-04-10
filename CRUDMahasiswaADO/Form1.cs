@@ -105,7 +105,7 @@ namespace CRUDMahasiswaADO
             txtKodeProdi.Clear();
             dtpTanggalLahir.Value = DateTime.Now;
 
-            txtNIM.Focus(); // ini di modul ada, lu tadi skip
+            txtNIM.Focus(); 
         }
 
 
