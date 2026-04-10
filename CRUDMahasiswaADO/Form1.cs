@@ -20,7 +20,7 @@ namespace CRUDMahasiswaADO
 
         public FormMahasiswa()
         {
-            InitializeComponent(); // JANGAN DIHAPUS
+            InitializeComponent();
             conn = new SqlConnection(connectionString);
         }
 
