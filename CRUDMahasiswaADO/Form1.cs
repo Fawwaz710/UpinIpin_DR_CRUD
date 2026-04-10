@@ -24,7 +24,7 @@ namespace CRUDMahasiswaADO
             conn = new SqlConnection(connectionString);
         }
 
-        // ================== CONNECT =================
+        // ================== CONNECT 
         private void ConnectDatabase()
         {
             try
